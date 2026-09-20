@@ -334,7 +334,9 @@ const K_CUR='tagset.current.v1', K_SET='tagset.sets.v1', K_OPT='tagset.opt.v1';
 function read(k,d){ try{ const r=localStorage.getItem(k); return r?JSON.parse(r):d; }catch(e){ storage=false; return d; } }
 function write(k,v){ try{ localStorage.setItem(k, JSON.stringify(v)); }catch(e){ storage=false; } }
 const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-function wrap(t,w){ return w===-1?'['+t+']' : w===1?'{'+t+'}' : w===2?'{{'+t+'}}' : t; }
+// 화면과 생성용 프롬프트만 공백 표기. 저장·비교에 쓰는 태그 키는 유지합니다.
+function promptTag(t){ return String(t).replace(/_/g,' '); }
+function wrap(t,w){ t=promptTag(t); return w===-1?'['+t+']' : w===1?'{'+t+'}' : w===2?'{{'+t+'}}' : t; }
 const buildStr=()=>picked.map(p=>wrap(p.tag,p.w)).join(', ');
 
 /* ── tags.json 적재 ── */
@@ -477,9 +479,9 @@ function rerollOne(id){
 function rows(){
   if(!ready) return [];
   if(query){
-    const q=query.toLowerCase(), out=[];
+    const q=query.toLowerCase(), tagQuery=q.trim().replace(/\s+/g,'_'), out=[];
     for(const g of NAMES) for(const r of GROUPS[g])
-      if(r[1].toLowerCase().indexOf(q)>=0 || r[2].toLowerCase().indexOf(q)>=0) out.push(r);
+      if(r[1].toLowerCase().indexOf(q)>=0 || r[2].toLowerCase().indexOf(tagQuery)>=0) out.push(r);
     return out.slice(0,400);
   }
   return GROUPS[active]||[];
@@ -494,7 +496,7 @@ function render(){
     if(r[0]!==cur){ cur=r[0]; html+='<div class="cat">'+esc(CATS[r[0]])+'</div><div class="grid">'; }
     const t=r[2].split('|')[0];
     html+='<button class="chip" data-t="'+esc(t)+'" data-ko="'+esc(r[1])+'" aria-pressed="'+on.has(t)+'">'
-        +esc(r[1])+'<span class="en">'+esc(t)+'</span></button>';
+        +esc(r[1])+'<span class="en">'+esc(promptTag(t))+'</span></button>';
   }
   m.innerHTML=html;
 }
@@ -522,7 +524,7 @@ function renderSlots(){
     return '<div class="sl'+(v?'':' off')+(locks.has(s.id)?' lock':'')+'">'
       +'<button class="lk" data-lock="'+s.id+'" aria-label="잠금">'+(locks.has(s.id)?'●':'○')+'</button>'
       +'<span class="nm">'+esc(s.n)+'</span>'
-      +'<span class="vl">'+(v?esc(v.ko)+'<small>'+esc(v.tag)+'</small>':(empty?'분류 없음':'—'))+'</span>'
+      +'<span class="vl">'+(v?esc(v.ko)+'<small>'+esc(promptTag(v.tag))+'</small>':(empty?'분류 없음':'—'))+'</span>'
       +(v?'<button class="rr" data-clear="'+s.id+'" aria-label="비우기">&times;</button>':'')
       +'<button class="rr" data-re="'+s.id+'" aria-label="다시 뽑기">↻</button></div>';
   }).join('');
@@ -629,7 +631,7 @@ $('#presets').onclick=e=>{
     const have=new Set(picked.map(p=>p.tag));
     picked=QUALITY[b.dataset.q].split(', ').filter(t=>!have.has(t)).map(t=>({ko:'품질',tag:t,w:0})).concat(picked);
     persist(); toast(b.dataset.q+' 품질 태그 추가');
-  } else copy(NEG[b.dataset.n], '네거티브 복사됨'); };
+  } else copy(promptTag(NEG[b.dataset.n]), '네거티브 복사됨'); };
 
 function copy(text,msg){
   if(!text){ toast('복사할 내용이 없습니다'); return; }
