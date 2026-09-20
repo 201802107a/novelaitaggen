@@ -1,0 +1,1130 @@
+[
+  {
+    "group": "기본",
+    "row": {
+      "category": "배경",
+      "subCategory": "무늬",
+      "name": "단순한 배경",
+      "tags": [
+        "simple_background"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "기본",
+    "row": {
+      "category": "배경",
+      "subCategory": "컬러",
+      "name": "흰색 배경",
+      "tags": [
+        "white_background"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "기본",
+    "row": {
+      "category": "배경",
+      "subCategory": "컬러",
+      "name": "회색 배경",
+      "tags": [
+        "grey_background"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "기본",
+    "row": {
+      "category": "배경",
+      "subCategory": "위치",
+      "name": "야외",
+      "tags": [
+        "outdoors"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "기본",
+    "row": {
+      "category": "배경",
+      "subCategory": "위치",
+      "name": "실내",
+      "tags": [
+        "indoors"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "기본",
+    "row": {
+      "category": "장소",
+      "subCategory": "자연",
+      "name": "하늘",
+      "tags": [
+        "sky"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "기본",
+    "row": {
+      "category": "장소",
+      "subCategory": "자연",
+      "name": "푸른 하늘",
+      "tags": [
+        "blue_sky"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "기본",
+    "row": {
+      "category": "장소",
+      "subCategory": "자연",
+      "name": "구름",
+      "tags": [
+        "cloud"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "기본",
+    "row": {
+      "category": "장소",
+      "subCategory": "자연",
+      "name": "나무",
+      "tags": [
+        "tree"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "기본",
+    "row": {
+      "category": "장소",
+      "subCategory": "자연",
+      "name": "물",
+      "tags": [
+        "water"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "기본",
+    "row": {
+      "category": "장소",
+      "subCategory": "자연",
+      "name": "꽃",
+      "tags": [
+        "flower"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "기본",
+    "row": {
+      "category": "연출",
+      "subCategory": "효과",
+      "name": "낮",
+      "tags": [
+        "day"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "기본",
+    "row": {
+      "category": "연출",
+      "subCategory": "효과",
+      "name": "반짝임",
+      "tags": [
+        "sparkle"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "기본",
+    "row": {
+      "category": "연출",
+      "subCategory": "효과",
+      "name": "하트",
+      "tags": [
+        "heart"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "기본",
+    "row": {
+      "category": "연출",
+      "subCategory": "효과",
+      "name": "별 기호",
+      "tags": [
+        "star_(symbol)"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "기본",
+    "row": {
+      "category": "작화",
+      "subCategory": "스타일",
+      "name": "회색조",
+      "tags": [
+        "greyscale"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "기본",
+    "row": {
+      "category": "작화",
+      "subCategory": "스타일",
+      "name": "치비 캐릭터",
+      "tags": [
+        "chibi"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "기본",
+    "row": {
+      "category": "작화",
+      "subCategory": "스타일",
+      "name": "만화",
+      "tags": [
+        "comic"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "기본",
+    "row": {
+      "category": "초점",
+      "subCategory": "시점",
+      "name": "옆에서 본 시점",
+      "tags": [
+        "from_side"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "기본",
+    "row": {
+      "category": "초점",
+      "subCategory": "시점",
+      "name": "뒤에서 본 시점",
+      "tags": [
+        "from_behind"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "기본",
+    "row": {
+      "category": "초점",
+      "subCategory": "강조",
+      "name": "전신",
+      "tags": [
+        "full_body"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "기본",
+    "row": {
+      "category": "초점",
+      "subCategory": "강조",
+      "name": "여러 시점",
+      "tags": [
+        "multiple_views"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "기본",
+    "row": {
+      "category": "초점",
+      "subCategory": "강조",
+      "name": "사람 없음",
+      "tags": [
+        "no_humans"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "기본",
+    "row": {
+      "category": "테마",
+      "subCategory": "도구",
+      "name": "음식",
+      "tags": [
+        "food"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "기본",
+    "row": {
+      "category": "테마",
+      "subCategory": "도구",
+      "name": "가방",
+      "tags": [
+        "bag"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "기본",
+    "row": {
+      "category": "테마",
+      "subCategory": "도구",
+      "name": "컵",
+      "tags": [
+        "cup"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "기본",
+    "row": {
+      "category": "테마",
+      "subCategory": "도구",
+      "name": "무기",
+      "tags": [
+        "weapon"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "기본",
+    "row": {
+      "category": "테마",
+      "subCategory": "도구",
+      "name": "검",
+      "tags": [
+        "sword"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "인물",
+    "row": {
+      "category": "인원",
+      "subCategory": "여성",
+      "name": "여러 여성",
+      "tags": [
+        "multiple_girls"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "인물",
+    "row": {
+      "category": "인원",
+      "subCategory": "남성",
+      "name": "여러 남성",
+      "tags": [
+        "multiple_boys"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "외모",
+    "row": {
+      "category": "머리카락",
+      "subCategory": "색깔",
+      "name": "회색 머리",
+      "tags": [
+        "grey_hair"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "외모",
+    "row": {
+      "category": "머리카락",
+      "subCategory": "스타일",
+      "name": "바보털",
+      "tags": [
+        "ahoge"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "외모",
+    "row": {
+      "category": "머리카락",
+      "subCategory": "스타일",
+      "name": "옆머리",
+      "tags": [
+        "sidelocks"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "외모",
+    "row": {
+      "category": "머리카락",
+      "subCategory": "스타일",
+      "name": "위로 뜬 앞머리",
+      "tags": [
+        "hair_intakes"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "외모",
+    "row": {
+      "category": "눈",
+      "subCategory": "색깔",
+      "name": "청록색 눈",
+      "tags": [
+        "aqua_eyes"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "외모",
+    "row": {
+      "category": "입",
+      "subCategory": "부위",
+      "name": "치아",
+      "tags": [
+        "teeth"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "외모",
+    "row": {
+      "category": "입",
+      "subCategory": "모양",
+      "name": "뾰족한 송곳니",
+      "tags": [
+        "fang"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "외모",
+    "row": {
+      "category": "얼굴",
+      "subCategory": "특징",
+      "name": "점",
+      "tags": [
+        "mole"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "외모",
+    "row": {
+      "category": "얼굴",
+      "subCategory": "특징",
+      "name": "눈 아래 점",
+      "tags": [
+        "mole_under_eye"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "외모",
+    "row": {
+      "category": "귀",
+      "subCategory": "모양",
+      "name": "동물 귀의 솜털",
+      "tags": [
+        "animal_ear_fluff"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "의상",
+    "row": {
+      "category": "의상",
+      "subCategory": "특징",
+      "name": "긴 소매",
+      "tags": [
+        "long_sleeves"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "의상",
+    "row": {
+      "category": "의상",
+      "subCategory": "특징",
+      "name": "짧은 소매",
+      "tags": [
+        "short_sleeves"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "의상",
+    "row": {
+      "category": "의상",
+      "subCategory": "특징",
+      "name": "분리된 소매",
+      "tags": [
+        "detached_sleeves"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "의상",
+    "row": {
+      "category": "의상",
+      "subCategory": "특징",
+      "name": "부푼 소매",
+      "tags": [
+        "puffy_sleeves"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "의상",
+    "row": {
+      "category": "의상",
+      "subCategory": "특징",
+      "name": "넓은 소매",
+      "tags": [
+        "wide_sleeves"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "의상",
+    "row": {
+      "category": "의상",
+      "subCategory": "특징",
+      "name": "프릴",
+      "tags": [
+        "frills"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "의상",
+    "row": {
+      "category": "의상",
+      "subCategory": "특징",
+      "name": "줄무늬 의상",
+      "tags": [
+        "striped_clothes"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "의상",
+    "row": {
+      "category": "의상",
+      "subCategory": "특징",
+      "name": "어깨를 드러낸 의상",
+      "tags": [
+        "off_shoulder"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "의상",
+    "row": {
+      "category": "의상",
+      "subCategory": "특징",
+      "name": "후드",
+      "tags": [
+        "hood"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "의상",
+    "row": {
+      "category": "의상",
+      "subCategory": "특징",
+      "name": "세일러 칼라",
+      "tags": [
+        "sailor_collar"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "의상",
+    "row": {
+      "category": "의상",
+      "subCategory": "특징",
+      "name": "칼라",
+      "tags": [
+        "collar"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "의상",
+    "row": {
+      "category": "의상",
+      "subCategory": "특징",
+      "name": "벨트",
+      "tags": [
+        "belt"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "의상",
+    "row": {
+      "category": "의상",
+      "subCategory": "특징",
+      "name": "변형 의상",
+      "tags": [
+        "alternate_costume"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "의상",
+    "row": {
+      "category": "의상",
+      "subCategory": "특징",
+      "name": "털 장식",
+      "tags": [
+        "fur_trim"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "의상",
+    "row": {
+      "category": "의상",
+      "subCategory": "드레스",
+      "name": "드레스",
+      "tags": [
+        "dress"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "의상",
+    "row": {
+      "category": "의상",
+      "subCategory": "드레스",
+      "name": "흰색 드레스",
+      "tags": [
+        "white_dress"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "의상",
+    "row": {
+      "category": "의상",
+      "subCategory": "드레스",
+      "name": "검은색 드레스",
+      "tags": [
+        "black_dress"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "의상",
+    "row": {
+      "category": "의상",
+      "subCategory": "복장",
+      "name": "일본 전통 의상",
+      "tags": [
+        "japanese_clothes"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "의상",
+    "row": {
+      "category": "의상",
+      "subCategory": "제복",
+      "name": "세일러복",
+      "tags": [
+        "serafuku"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "의상",
+    "row": {
+      "category": "의상",
+      "subCategory": "슈트",
+      "name": "갑옷",
+      "tags": [
+        "armor"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "의상",
+    "row": {
+      "category": "상의",
+      "subCategory": "셔츠",
+      "name": "흰색 셔츠",
+      "tags": [
+        "white_shirt"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "의상",
+    "row": {
+      "category": "상의",
+      "subCategory": "셔츠",
+      "name": "검은색 셔츠",
+      "tags": [
+        "black_shirt"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "의상",
+    "row": {
+      "category": "상의",
+      "subCategory": "재킷",
+      "name": "검은색 재킷",
+      "tags": [
+        "black_jacket"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "의상",
+    "row": {
+      "category": "하의",
+      "subCategory": "치마",
+      "name": "치마",
+      "tags": [
+        "skirt"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "의상",
+    "row": {
+      "category": "하의",
+      "subCategory": "치마",
+      "name": "검은색 치마",
+      "tags": [
+        "black_skirt"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "의상",
+    "row": {
+      "category": "하의",
+      "subCategory": "치마",
+      "name": "파란색 치마",
+      "tags": [
+        "blue_skirt"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "의상",
+    "row": {
+      "category": "하의",
+      "subCategory": "바지",
+      "name": "바지",
+      "tags": [
+        "pants"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "의상",
+    "row": {
+      "category": "하의",
+      "subCategory": "바지",
+      "name": "검은색 바지",
+      "tags": [
+        "black_pants"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "의상",
+    "row": {
+      "category": "신발",
+      "subCategory": "신발",
+      "name": "신발",
+      "tags": [
+        "shoes"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "장신구",
+    "row": {
+      "category": "머리 장식",
+      "subCategory": "모자",
+      "name": "모자",
+      "tags": [
+        "hat"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "장신구",
+    "row": {
+      "category": "머리 장식",
+      "subCategory": "장신구",
+      "name": "머리 장식",
+      "tags": [
+        "hair_ornament"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "장신구",
+    "row": {
+      "category": "머리 장식",
+      "subCategory": "장신구",
+      "name": "머리 리본",
+      "tags": [
+        "hair_bow"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "장신구",
+    "row": {
+      "category": "머리 장식",
+      "subCategory": "장신구",
+      "name": "머리핀",
+      "tags": [
+        "hairclip"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "장신구",
+    "row": {
+      "category": "머리 장식",
+      "subCategory": "장신구",
+      "name": "머리의 꽃 장식",
+      "tags": [
+        "hair_flower"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "장신구",
+    "row": {
+      "category": "머리 장식",
+      "subCategory": "장신구",
+      "name": "머리 위 고리",
+      "tags": [
+        "halo"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "장신구",
+    "row": {
+      "category": "귀 장식",
+      "subCategory": "귀걸이",
+      "name": "귀걸이",
+      "tags": [
+        "earrings"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "장신구",
+    "row": {
+      "category": "목 장식",
+      "subCategory": "장신구",
+      "name": "장신구",
+      "tags": [
+        "jewelry"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "장신구",
+    "row": {
+      "category": "목 장식",
+      "subCategory": "넥타이",
+      "name": "넥타이",
+      "tags": [
+        "necktie"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "장신구",
+    "row": {
+      "category": "손 장식",
+      "subCategory": "장갑",
+      "name": "장갑",
+      "tags": [
+        "gloves"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "장신구",
+    "row": {
+      "category": "손 장식",
+      "subCategory": "장갑",
+      "name": "검은색 장갑",
+      "tags": [
+        "black_gloves"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "장신구",
+    "row": {
+      "category": "손 장식",
+      "subCategory": "장갑",
+      "name": "흰색 장갑",
+      "tags": [
+        "white_gloves"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "장신구",
+    "row": {
+      "category": "손 장식",
+      "subCategory": "장갑",
+      "name": "손가락이 드러난 장갑",
+      "tags": [
+        "fingerless_gloves"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "장신구",
+    "row": {
+      "category": "손 장식",
+      "subCategory": "장갑",
+      "name": "팔꿈치까지 오는 장갑",
+      "tags": [
+        "elbow_gloves"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "장신구",
+    "row": {
+      "category": "얼굴 장식",
+      "subCategory": "안경",
+      "name": "안경",
+      "tags": [
+        "glasses"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "동작 1",
+    "row": {
+      "category": "얼굴",
+      "subCategory": "표정",
+      "name": "미소",
+      "tags": [
+        "smile"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "동작 1",
+    "row": {
+      "category": "얼굴",
+      "subCategory": "표정",
+      "name": "이를 드러낸 미소",
+      "tags": [
+        "grin"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "동작 1",
+    "row": {
+      "category": "얼굴",
+      "subCategory": "표정",
+      "name": "입을 크게 벌린 미소",
+      "tags": [
+        ":d"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "동작 1",
+    "row": {
+      "category": "얼굴",
+      "subCategory": "표정",
+      "name": "입을 동그랗게 벌림",
+      "tags": [
+        ":o"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "동작 1",
+    "row": {
+      "category": "얼굴",
+      "subCategory": "표정",
+      "name": "땀방울 표현",
+      "tags": [
+        "sweatdrop"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "동작 1",
+    "row": {
+      "category": "손",
+      "subCategory": "올리다",
+      "name": "한 손 들기",
+      "tags": [
+        "hand_up"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "동작 1",
+    "row": {
+      "category": "손",
+      "subCategory": "올리다",
+      "name": "양손 들기",
+      "tags": [
+        "hands_up"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "동작 1",
+    "row": {
+      "category": "손",
+      "subCategory": "잡다",
+      "name": "무기 들기",
+      "tags": [
+        "holding_weapon"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "동작 1",
+    "row": {
+      "category": "손",
+      "subCategory": "동작",
+      "name": "자기 허리에 손 얹기",
+      "tags": [
+        "hand_on_own_hip"
+      ],
+      "nsfw": false
+    }
+  },
+  {
+    "group": "동작 1",
+    "row": {
+      "category": "팔",
+      "subCategory": "동작",
+      "name": "양팔 들기",
+      "tags": [
+        "arms_up"
+      ],
+      "nsfw": false
+    }
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "source": {
+    "url": "https://github.com/GuWuW/danbooru-dict/blob/e046fa867f140e87e21524c25550fd55611da4cf/tags.csv",
+    "snapshot_date": "2026-09-12",
+    "sha256": "82a605f2db4acfce5b1b13e7ca129bd63535bd3321d3789389a7d02fd564b33a",
+    "reference_tags": 124735,
+    "kind": "third_party_snapshot",
+    "live_danbooru_verified": false,
+    "limitations": [
+      "Snapshot may omit low-count or deprecated tags.",
+      "Aliases may include historical mappings; never auto-replaced.",
+      "Not found does NOT mean invalid; model-specific prompts are preserved."
+    ]
+  },
+  "input_sha256": "5d02bc787d01861e6417e68f148ad04744a3571ad76de0ab5a017fc44033c88d",
+  "before": {
+    "groups": 11,
+    "rows": 4167,
+    "tag_occurrences": 4237,
+    "unique_raw_tags": 4130,
+    "unique_normalized_tags": 4121,
+    "uppercase_occurrences": 1298,
+    "whitespace_occurrences": 53,
+    "placeholder_occurrences": 111
+  },
+  "after": {
+    "groups": 11,
+    "rows": 4261,
+    "tag_occurrences": 4331,
+    "unique_raw_tags": 4220,
+    "unique_normalized_tags": 4215,
+    "uppercase_occurrences": 963,
+    "whitespace_occurrences": 17,
+    "placeholder_occurrences": 111
+  },
+  "comparison": {
+    "not_in_snapshot": 1428,
+    "placeholder_review": 111,
+    "snapshot_match": 2383,
+    "alias_candidate_unverified": 199
+  },
+  "changes": {
+    "spelling": 371,
+    "addition": 94
+  },
+  "applied": true
+}

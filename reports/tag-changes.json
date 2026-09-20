@@ -1,0 +1,3163 @@
+[
+  {
+    "type": "spelling",
+    "group": "기본",
+    "name": "낮은 해상도",
+    "from": "Lowres",
+    "to": "lowres"
+  },
+  {
+    "type": "spelling",
+    "group": "기본",
+    "name": "흑백",
+    "from": "Monochrome",
+    "to": "monochrome"
+  },
+  {
+    "type": "spelling",
+    "group": "기본",
+    "name": "디즈니",
+    "from": "Disney",
+    "to": "disney"
+  },
+  {
+    "type": "spelling",
+    "group": "기본",
+    "name": "카툰 네트워크",
+    "from": "Cartoon_Network",
+    "to": "cartoon_network"
+  },
+  {
+    "type": "spelling",
+    "group": "기본",
+    "name": "DC 코믹스",
+    "from": "DC_Comics",
+    "to": "dc_comics"
+  },
+  {
+    "type": "spelling",
+    "group": "기본",
+    "name": "판타지",
+    "from": "Fantasy",
+    "to": "fantasy"
+  },
+  {
+    "type": "spelling",
+    "group": "기본",
+    "name": "스팀펑크",
+    "from": "Steampunk",
+    "to": "steampunk"
+  },
+  {
+    "type": "spelling",
+    "group": "기본",
+    "name": "디젤펑크",
+    "from": "Dieselpunk",
+    "to": "dieselpunk"
+  },
+  {
+    "type": "spelling",
+    "group": "기본",
+    "name": "사이버펑크",
+    "from": "Cyberpunk",
+    "to": "cyberpunk"
+  },
+  {
+    "type": "spelling",
+    "group": "기본",
+    "name": "그리스 신화",
+    "from": "Greek_mythology",
+    "to": "greek_mythology"
+  },
+  {
+    "type": "spelling",
+    "group": "기본",
+    "name": "슬라브 신화",
+    "from": "Slavic_mythology",
+    "to": "slavic_mythology"
+  },
+  {
+    "type": "spelling",
+    "group": "기본",
+    "name": "이집트 신화",
+    "from": "Egyptian_mythology",
+    "to": "egyptian_mythology"
+  },
+  {
+    "type": "spelling",
+    "group": "기본",
+    "name": "일본 신화",
+    "from": "Japanese_mythology",
+    "to": "japanese_mythology"
+  },
+  {
+    "type": "spelling",
+    "group": "기본",
+    "name": "중국 신화",
+    "from": "Chinese_mythology",
+    "to": "chinese_mythology"
+  },
+  {
+    "type": "spelling",
+    "group": "기본",
+    "name": "디스코",
+    "from": "Disco",
+    "to": "disco"
+  },
+  {
+    "type": "spelling",
+    "group": "기본",
+    "name": "록",
+    "from": "Rock",
+    "to": "rock"
+  },
+  {
+    "type": "spelling",
+    "group": "기본",
+    "name": "포크",
+    "from": "Fork",
+    "to": "fork"
+  },
+  {
+    "type": "spelling",
+    "group": "기본",
+    "name": "르네상스",
+    "from": "Renaissance",
+    "to": "renaissance"
+  },
+  {
+    "type": "spelling",
+    "group": "기본",
+    "name": "한국",
+    "from": "Korea",
+    "to": "korea"
+  },
+  {
+    "type": "spelling",
+    "group": "기본",
+    "name": "북한",
+    "from": "North_Korea",
+    "to": "north_korea"
+  },
+  {
+    "type": "spelling",
+    "group": "기본",
+    "name": "일본",
+    "from": "Japan",
+    "to": "japan"
+  },
+  {
+    "type": "spelling",
+    "group": "기본",
+    "name": "중국",
+    "from": "China",
+    "to": "china"
+  },
+  {
+    "type": "spelling",
+    "group": "기본",
+    "name": "홍콩",
+    "from": "Hong_Kong",
+    "to": "hong_kong"
+  },
+  {
+    "type": "spelling",
+    "group": "기본",
+    "name": "대만",
+    "from": "Taiwan",
+    "to": "taiwan"
+  },
+  {
+    "type": "spelling",
+    "group": "기본",
+    "name": "몽골",
+    "from": "Mongolia",
+    "to": "mongolia"
+  },
+  {
+    "type": "spelling",
+    "group": "기본",
+    "name": "태국",
+    "from": "Thailand",
+    "to": "thailand"
+  },
+  {
+    "type": "spelling",
+    "group": "기본",
+    "name": "베트남",
+    "from": "Vietnam",
+    "to": "vietnam"
+  },
+  {
+    "type": "spelling",
+    "group": "기본",
+    "name": "캐나다",
+    "from": "Canada",
+    "to": "canada"
+  },
+  {
+    "type": "spelling",
+    "group": "기본",
+    "name": "멕시코",
+    "from": "Mexico",
+    "to": "mexico"
+  },
+  {
+    "type": "spelling",
+    "group": "기본",
+    "name": "브라질",
+    "from": "Brazil",
+    "to": "brazil"
+  },
+  {
+    "type": "spelling",
+    "group": "기본",
+    "name": "아르헨티나",
+    "from": "Argentina",
+    "to": "argentina"
+  },
+  {
+    "type": "spelling",
+    "group": "기본",
+    "name": "칠레",
+    "from": "Chile",
+    "to": "chile"
+  },
+  {
+    "type": "spelling",
+    "group": "기본",
+    "name": "콜롬비아",
+    "from": "Colombia",
+    "to": "colombia"
+  },
+  {
+    "type": "spelling",
+    "group": "기본",
+    "name": "러시아",
+    "from": "Russia",
+    "to": "russia"
+  },
+  {
+    "type": "spelling",
+    "group": "기본",
+    "name": "우크라이나",
+    "from": "Ukraine",
+    "to": "ukraine"
+  },
+  {
+    "type": "spelling",
+    "group": "기본",
+    "name": "네덜란드",
+    "from": "Netherlands",
+    "to": "netherlands"
+  },
+  {
+    "type": "spelling",
+    "group": "기본",
+    "name": "프랑스",
+    "from": "France",
+    "to": "france"
+  },
+  {
+    "type": "spelling",
+    "group": "기본",
+    "name": "그리스",
+    "from": "Greece",
+    "to": "greece"
+  },
+  {
+    "type": "spelling",
+    "group": "기본",
+    "name": "스페인",
+    "from": "Spain",
+    "to": "spain"
+  },
+  {
+    "type": "spelling",
+    "group": "기본",
+    "name": "이탈리아",
+    "from": "Italy",
+    "to": "italy"
+  },
+  {
+    "type": "spelling",
+    "group": "기본",
+    "name": "포르투갈",
+    "from": "Portugal",
+    "to": "portugal"
+  },
+  {
+    "type": "spelling",
+    "group": "기본",
+    "name": "노르웨이",
+    "from": "Norway",
+    "to": "norway"
+  },
+  {
+    "type": "spelling",
+    "group": "기본",
+    "name": "스웨덴",
+    "from": "Sweden",
+    "to": "sweden"
+  },
+  {
+    "type": "spelling",
+    "group": "기본",
+    "name": "핀란드",
+    "from": "Finland",
+    "to": "finland"
+  },
+  {
+    "type": "spelling",
+    "group": "기본",
+    "name": "러브 호텔",
+    "from": "love hotel",
+    "to": "love_hotel"
+  },
+  {
+    "type": "spelling",
+    "group": "인물",
+    "name": "얀데레",
+    "from": "Yandere",
+    "to": "yandere"
+  },
+  {
+    "type": "spelling",
+    "group": "인물",
+    "name": "츤데레",
+    "from": "Tsundere",
+    "to": "tsundere"
+  },
+  {
+    "type": "spelling",
+    "group": "인물",
+    "name": "고블린",
+    "from": "Goblin",
+    "to": "goblin"
+  },
+  {
+    "type": "spelling",
+    "group": "인물",
+    "name": "엘프",
+    "from": "Elf",
+    "to": "elf"
+  },
+  {
+    "type": "spelling",
+    "group": "인물",
+    "name": "다크 엘프",
+    "from": "Dark_Elf",
+    "to": "dark_elf"
+  },
+  {
+    "type": "spelling",
+    "group": "인물",
+    "name": "오크",
+    "from": "Orc",
+    "to": "orc"
+  },
+  {
+    "type": "spelling",
+    "group": "인물",
+    "name": "요괴",
+    "from": "Monster",
+    "to": "monster"
+  },
+  {
+    "type": "spelling",
+    "group": "인물",
+    "name": "요정",
+    "from": "Fairy",
+    "to": "fairy"
+  },
+  {
+    "type": "spelling",
+    "group": "인물",
+    "name": "용",
+    "from": "Dragon",
+    "to": "dragon"
+  },
+  {
+    "type": "spelling",
+    "group": "인물",
+    "name": "유령",
+    "from": "Ghost",
+    "to": "ghost"
+  },
+  {
+    "type": "spelling",
+    "group": "인물",
+    "name": "정령",
+    "from": "Spirit",
+    "to": "spirit"
+  },
+  {
+    "type": "spelling",
+    "group": "인물",
+    "name": "천사",
+    "from": "Angel",
+    "to": "angel"
+  },
+  {
+    "type": "spelling",
+    "group": "인물",
+    "name": "흡혈귀",
+    "from": "Vampire",
+    "to": "vampire"
+  },
+  {
+    "type": "spelling",
+    "group": "인물",
+    "name": "고릴라",
+    "from": "Gorilla",
+    "to": "gorilla"
+  },
+  {
+    "type": "spelling",
+    "group": "인물",
+    "name": "늑대 인간",
+    "from": "Werewolf",
+    "to": "werewolf"
+  },
+  {
+    "type": "spelling",
+    "group": "외모",
+    "name": "흰색 머리카락",
+    "from": "white hair",
+    "to": "white_hair"
+  },
+  {
+    "type": "spelling",
+    "group": "외모",
+    "name": "갈색 머리카락",
+    "from": "brown hair",
+    "to": "brown_hair"
+  },
+  {
+    "type": "spelling",
+    "group": "외모",
+    "name": "빨강색 머리카락",
+    "from": "red hair",
+    "to": "red_hair"
+  },
+  {
+    "type": "spelling",
+    "group": "외모",
+    "name": "분홍색 머리카락",
+    "from": "pink hair",
+    "to": "pink_hair"
+  },
+  {
+    "type": "spelling",
+    "group": "외모",
+    "name": "주황색 머리카락",
+    "from": "orange hair",
+    "to": "orange_hair"
+  },
+  {
+    "type": "spelling",
+    "group": "외모",
+    "name": "황금색 머리카락",
+    "from": "Blonde hair",
+    "to": "blonde_hair"
+  },
+  {
+    "type": "spelling",
+    "group": "외모",
+    "name": "초록색 머리카락",
+    "from": "green hair",
+    "to": "green_hair"
+  },
+  {
+    "type": "spelling",
+    "group": "외모",
+    "name": "파란색 머리카락",
+    "from": "blue hair",
+    "to": "blue_hair"
+  },
+  {
+    "type": "spelling",
+    "group": "외모",
+    "name": "보라색 머리카락",
+    "from": "purple hair",
+    "to": "purple_hair"
+  },
+  {
+    "type": "spelling",
+    "group": "외모",
+    "name": "검은색 머리카락",
+    "from": "black hair",
+    "to": "black_hair"
+  },
+  {
+    "type": "spelling",
+    "group": "외모",
+    "name": "무지개색 머리카락",
+    "from": "rainbow hair",
+    "to": "rainbow_hair"
+  },
+  {
+    "type": "spelling",
+    "group": "외모",
+    "name": "머리카락 색깔이 두 가지다",
+    "from": "two-tone hair",
+    "to": "two-tone_hair"
+  },
+  {
+    "type": "spelling",
+    "group": "외모",
+    "name": "머리카락 색깔이 줄무늬다",
+    "from": "streaked hair",
+    "to": "streaked_hair"
+  },
+  {
+    "type": "spelling",
+    "group": "외모",
+    "name": "머리카락 색깔이 층을 이룬다",
+    "from": "gradient hair",
+    "to": "gradient_hair"
+  },
+  {
+    "type": "spelling",
+    "group": "외모",
+    "name": "머리카락 색깔이 절반씩 다르다",
+    "from": "split-color hair",
+    "to": "split-color_hair"
+  },
+  {
+    "type": "spelling",
+    "group": "외모",
+    "name": "머리카락 색깔이 매우 다양하다",
+    "from": "multicolored hair",
+    "to": "multicolored_hair"
+  },
+  {
+    "type": "spelling",
+    "group": "외모",
+    "name": "머리카락 안쪽을 염색했다",
+    "from": "colored inner hair",
+    "to": "colored_inner_hair"
+  },
+  {
+    "type": "spelling",
+    "group": "외모",
+    "name": "앞머리가 가지런하다",
+    "from": "Blunt_bangs",
+    "to": "blunt_bangs"
+  },
+  {
+    "type": "spelling",
+    "group": "외모",
+    "name": "속눈썹",
+    "from": "Eyelashes",
+    "to": "eyelashes"
+  },
+  {
+    "type": "spelling",
+    "group": "외모",
+    "name": "흰색 입술",
+    "from": "white lips",
+    "to": "white_lips"
+  },
+  {
+    "type": "spelling",
+    "group": "외모",
+    "name": "갈색 입술",
+    "from": "brown lips",
+    "to": "brown_lips"
+  },
+  {
+    "type": "spelling",
+    "group": "외모",
+    "name": "빨강색 입술",
+    "from": "red lips",
+    "to": "red_lips"
+  },
+  {
+    "type": "spelling",
+    "group": "외모",
+    "name": "분홍색 입술",
+    "from": "pink lips",
+    "to": "pink_lips"
+  },
+  {
+    "type": "spelling",
+    "group": "외모",
+    "name": "주황색 입술",
+    "from": "orange lips",
+    "to": "orange_lips"
+  },
+  {
+    "type": "spelling",
+    "group": "외모",
+    "name": "노란색 입술",
+    "from": "yellow lips",
+    "to": "yellow_lips"
+  },
+  {
+    "type": "spelling",
+    "group": "외모",
+    "name": "초록색 입술",
+    "from": "green lips",
+    "to": "green_lips"
+  },
+  {
+    "type": "spelling",
+    "group": "외모",
+    "name": "파란색 입술",
+    "from": "blue lips",
+    "to": "blue_lips"
+  },
+  {
+    "type": "spelling",
+    "group": "외모",
+    "name": "보라색 입술",
+    "from": "purple lips",
+    "to": "purple_lips"
+  },
+  {
+    "type": "spelling",
+    "group": "외모",
+    "name": "검은색 입술",
+    "from": "black lips",
+    "to": "black_lips"
+  },
+  {
+    "type": "spelling",
+    "group": "외모",
+    "name": "흰색 혀",
+    "from": "white tongue",
+    "to": "white_tongue"
+  },
+  {
+    "type": "spelling",
+    "group": "외모",
+    "name": "빨강색 혀",
+    "from": "red tongue",
+    "to": "red_tongue"
+  },
+  {
+    "type": "spelling",
+    "group": "외모",
+    "name": "주황색 혀",
+    "from": "orange tongue",
+    "to": "orange_tongue"
+  },
+  {
+    "type": "spelling",
+    "group": "외모",
+    "name": "노란색 혀",
+    "from": "yellow tongue",
+    "to": "yellow_tongue"
+  },
+  {
+    "type": "spelling",
+    "group": "외모",
+    "name": "초록색 혀",
+    "from": "green tongue",
+    "to": "green_tongue"
+  },
+  {
+    "type": "spelling",
+    "group": "외모",
+    "name": "파란색 혀",
+    "from": "blue tongue",
+    "to": "blue_tongue"
+  },
+  {
+    "type": "spelling",
+    "group": "외모",
+    "name": "보라색 혀",
+    "from": "purple tongue",
+    "to": "purple_tongue"
+  },
+  {
+    "type": "spelling",
+    "group": "외모",
+    "name": "검은색 혀",
+    "from": "black tongue",
+    "to": "black_tongue"
+  },
+  {
+    "type": "spelling",
+    "group": "체형",
+    "name": "가짜 날개",
+    "from": "Fake_wings",
+    "to": "fake_wings"
+  },
+  {
+    "type": "spelling",
+    "group": "체형",
+    "name": "기계 날개",
+    "from": "Mechanical_wings",
+    "to": "mechanical_wings"
+  },
+  {
+    "type": "spelling",
+    "group": "체형",
+    "name": "식물 날개",
+    "from": "Plant_wings",
+    "to": "plant_wings"
+  },
+  {
+    "type": "spelling",
+    "group": "체형",
+    "name": "나비 날개",
+    "from": "Butterfly_wings",
+    "to": "butterfly_wings"
+  },
+  {
+    "type": "spelling",
+    "group": "체형",
+    "name": "박쥐 날개",
+    "from": "Bat_wings",
+    "to": "bat_wings"
+  },
+  {
+    "type": "spelling",
+    "group": "체형",
+    "name": "천사 날개",
+    "from": "Angel_wings",
+    "to": "angel_wings"
+  },
+  {
+    "type": "spelling",
+    "group": "체형",
+    "name": "악마 날개",
+    "from": "Demon_wings",
+    "to": "demon_wings"
+  },
+  {
+    "type": "spelling",
+    "group": "체형",
+    "name": "요정 날개",
+    "from": "Fairy_wings",
+    "to": "fairy_wings"
+  },
+  {
+    "type": "spelling",
+    "group": "체형",
+    "name": "용의 날개",
+    "from": "Dragon_wings",
+    "to": "dragon_wings"
+  },
+  {
+    "type": "spelling",
+    "group": "체형",
+    "name": "불꽃 날개",
+    "from": "Fiery_wings",
+    "to": "fiery_wings"
+  },
+  {
+    "type": "spelling",
+    "group": "체형",
+    "name": "얼음 날개",
+    "from": "Ice_wings",
+    "to": "ice_wings"
+  },
+  {
+    "type": "spelling",
+    "group": "체형",
+    "name": "하트 모양 날개",
+    "from": "Heart_wings",
+    "to": "heart_wings"
+  },
+  {
+    "type": "spelling",
+    "group": "의상",
+    "name": "복부 사라시",
+    "from": "Midriff_sarashi",
+    "to": "midriff_sarashi"
+  },
+  {
+    "type": "spelling",
+    "group": "의상",
+    "name": "가슴 사라시",
+    "from": "Chest_sarashi",
+    "to": "chest_sarashi"
+  },
+  {
+    "type": "spelling",
+    "group": "의상",
+    "name": "몸통 사라시",
+    "from": "Budget_sarashi",
+    "to": "budget_sarashi"
+  },
+  {
+    "type": "spelling",
+    "group": "의상",
+    "name": "풀린 사라시",
+    "from": "Undone_sarashi",
+    "to": "undone_sarashi"
+  },
+  {
+    "type": "spelling",
+    "group": "의상",
+    "name": "긴 치마",
+    "from": "Long_skirt",
+    "to": "long_skirt"
+  },
+  {
+    "type": "spelling",
+    "group": "장신구",
+    "name": "곡옥 귀걸이",
+    "from": "Magatama_earrings",
+    "to": "magatama_earrings"
+  },
+  {
+    "type": "spelling",
+    "group": "장신구",
+    "name": "술이 달린 귀걸이",
+    "from": "Tassel_earrings",
+    "to": "tassel_earrings"
+  },
+  {
+    "type": "spelling",
+    "group": "장신구",
+    "name": "쉘 귀걸이",
+    "from": "Shell_earrings",
+    "to": "shell_earrings"
+  },
+  {
+    "type": "spelling",
+    "group": "장신구",
+    "name": "음양사 귀걸이",
+    "from": "Yin_yang_earrings",
+    "to": "yin_yang_earrings"
+  },
+  {
+    "type": "spelling",
+    "group": "장신구",
+    "name": "종 귀걸이",
+    "from": "Bell_earrings",
+    "to": "bell_earrings"
+  },
+  {
+    "type": "spelling",
+    "group": "장신구",
+    "name": "초승달 귀걸이",
+    "from": "Crescent_earrings",
+    "to": "crescent_earrings"
+  },
+  {
+    "type": "spelling",
+    "group": "장신구",
+    "name": "털 장식 귀걸이",
+    "from": "Pom_pom_earrings",
+    "to": "pom_pom_earrings"
+  },
+  {
+    "type": "spelling",
+    "group": "장신구",
+    "name": "해골 귀걸이",
+    "from": "Skull_earrings",
+    "to": "skull_earrings"
+  },
+  {
+    "type": "spelling",
+    "group": "장신구",
+    "name": "꽃 귀걸이",
+    "from": "Flower_earrings",
+    "to": "flower_earrings"
+  },
+  {
+    "type": "spelling",
+    "group": "장신구",
+    "name": "수정 귀걸이",
+    "from": "Crystal_earrings",
+    "to": "crystal_earrings"
+  },
+  {
+    "type": "spelling",
+    "group": "장신구",
+    "name": "눈송이 귀걸이",
+    "from": "Snowflake_earrings",
+    "to": "snowflake_earrings"
+  },
+  {
+    "type": "spelling",
+    "group": "장신구",
+    "name": "딸기 귀걸이",
+    "from": "Strawberry_earrings",
+    "to": "strawberry_earrings"
+  },
+  {
+    "type": "spelling",
+    "group": "장신구",
+    "name": "별 귀걸이",
+    "from": "Star_earrings",
+    "to": "star_earrings"
+  },
+  {
+    "type": "spelling",
+    "group": "장신구",
+    "name": "스페이드 귀걸이",
+    "from": "Spade_earrings",
+    "to": "spade_earrings"
+  },
+  {
+    "type": "spelling",
+    "group": "장신구",
+    "name": "십자가 귀걸이",
+    "from": "Cross_earrings",
+    "to": "cross_earrings"
+  },
+  {
+    "type": "spelling",
+    "group": "장신구",
+    "name": "알약 귀걸이",
+    "from": "Pill_earrings",
+    "to": "pill_earrings"
+  },
+  {
+    "type": "spelling",
+    "group": "장신구",
+    "name": "하트 귀걸이",
+    "from": "Heart_earrings",
+    "to": "heart_earrings"
+  },
+  {
+    "type": "spelling",
+    "group": "장신구",
+    "name": "행성 귀걸이",
+    "from": "Planet_earrings",
+    "to": "planet_earrings"
+  },
+  {
+    "type": "spelling",
+    "group": "장신구",
+    "name": "볼로 타이",
+    "from": "Bolo_Tie",
+    "to": "bolo_tie"
+  },
+  {
+    "type": "spelling",
+    "group": "장신구",
+    "name": "날개 달린 헬맷",
+    "from": "Winged_helmet",
+    "to": "winged_helmet"
+  },
+  {
+    "type": "spelling",
+    "group": "장신구",
+    "name": "날개 달린 가방",
+    "from": "Winged_bag",
+    "to": "winged_bag"
+  },
+  {
+    "type": "spelling",
+    "group": "장신구",
+    "name": "꼬리 고리",
+    "from": "Tail_ring",
+    "to": "tail_ring"
+  },
+  {
+    "type": "spelling",
+    "group": "장신구",
+    "name": "꼬리 리본",
+    "from": "Tail_bow",
+    "to": "tail_bow"
+  },
+  {
+    "type": "spelling",
+    "group": "장신구",
+    "name": "꼬리 리본",
+    "from": "Tail_ribbon",
+    "to": "tail_ribbon"
+  },
+  {
+    "type": "spelling",
+    "group": "장신구",
+    "name": "꼬리 장식품",
+    "from": "Tail_ornament",
+    "to": "tail_ornament"
+  },
+  {
+    "type": "spelling",
+    "group": "장신구",
+    "name": "꼬리 종",
+    "from": "Tail_bell",
+    "to": "tail_bell"
+  },
+  {
+    "type": "spelling",
+    "group": "장신구",
+    "name": "꼬리 피어싱",
+    "from": "Tail_piercing",
+    "to": "tail_piercing"
+  },
+  {
+    "type": "spelling",
+    "group": "장신구",
+    "name": "혀 피어싱",
+    "from": "Tongue_piercing",
+    "to": "tongue_piercing"
+  },
+  {
+    "type": "spelling",
+    "group": "장신구",
+    "name": "코 피어싱",
+    "from": "Nose_piercing",
+    "to": "nose_piercing"
+  },
+  {
+    "type": "spelling",
+    "group": "장신구",
+    "name": "귀 피어싱",
+    "from": "Ear_piercing",
+    "to": "ear_piercing"
+  },
+  {
+    "type": "spelling",
+    "group": "장신구",
+    "name": "배꼽 피어싱",
+    "from": "Collarbone_piercing",
+    "to": "collarbone_piercing"
+  },
+  {
+    "type": "spelling",
+    "group": "장신구",
+    "name": "귀걸이 한 개",
+    "from": "Single_earring",
+    "to": "single_earring"
+  },
+  {
+    "type": "spelling",
+    "group": "장신구",
+    "name": "귀걸이 여러 개",
+    "from": "Multiple_earrings",
+    "to": "multiple_earrings"
+  },
+  {
+    "type": "spelling",
+    "group": "장신구",
+    "name": "위쪽 귀 두 개 피어싱",
+    "from": "Industrial_piercing",
+    "to": "industrial_piercing"
+  },
+  {
+    "type": "spelling",
+    "group": "장신구",
+    "name": "눈썹 피어싱",
+    "from": "Eyebrow_piercing",
+    "to": "eyebrow_piercing"
+  },
+  {
+    "type": "spelling",
+    "group": "장신구",
+    "name": "눈썹 아래 피어싱",
+    "from": "Anti-eyebrow_piercing",
+    "to": "anti-eyebrow_piercing"
+  },
+  {
+    "type": "spelling",
+    "group": "동작 1",
+    "name": "입을 다물다",
+    "from": "Closed_mouth",
+    "to": "closed_mouth"
+  },
+  {
+    "type": "spelling",
+    "group": "동작 1",
+    "name": "입술을 핥다",
+    "from": "Licking_lips",
+    "to": "licking_lips"
+  },
+  {
+    "type": "spelling",
+    "group": "동작 1",
+    "name": "입술을 내밀다",
+    "from": "Pursed_lips",
+    "to": "pursed_lips"
+  },
+  {
+    "type": "spelling",
+    "group": "동작 1",
+    "name": "입을 벌리다",
+    "from": "Open_mouth",
+    "to": "open_mouth"
+  },
+  {
+    "type": "spelling",
+    "group": "동작 1",
+    "name": "입술을 오므리다",
+    "from": "Puckered_lips",
+    "to": "puckered_lips"
+  },
+  {
+    "type": "spelling",
+    "group": "동작 1",
+    "name": "입술이 갈라지다",
+    "from": "Parted_lips",
+    "to": "parted_lips"
+  },
+  {
+    "type": "spelling",
+    "group": "동작 1",
+    "name": "입술을 벌린 채 키스한다",
+    "from": "French_Kiss",
+    "to": "french_kiss"
+  },
+  {
+    "type": "spelling",
+    "group": "동작 1",
+    "name": "강제로 다리를 잡는다",
+    "from": "Leg_grab",
+    "to": "leg_grab"
+  },
+  {
+    "type": "spelling",
+    "group": "동작 1",
+    "name": "강제로 목을 조르다",
+    "from": "Choke_hold",
+    "to": "choke_hold"
+  },
+  {
+    "type": "spelling",
+    "group": "행동",
+    "name": "누군가 안절부절하다",
+    "from": "_fidgeting",
+    "to": "fidgeting"
+  },
+  {
+    "type": "spelling",
+    "group": "!섹스",
+    "name": "괴롭히다",
+    "from": "Ryona",
+    "to": "ryona"
+  },
+  {
+    "type": "spelling",
+    "group": "!섹스",
+    "name": "펠라치오를 흉내낸다",
+    "from": "Fellatio_gesture",
+    "to": "fellatio_gesture"
+  },
+  {
+    "type": "spelling",
+    "group": "!섹스",
+    "name": "손으로 자지를 흔드는 흉내를 낸다",
+    "from": "Handjob_gesture",
+    "to": "handjob_gesture"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "교토 애니메이션",
+    "from": "Kyoto_Animation",
+    "to": "kyoto_animation"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "토에이",
+    "from": "TOEI_COMPANY",
+    "to": "toei_company"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "강철의 연금술사",
+    "from": "Fullmetal_Alchemist",
+    "to": "fullmetal_alchemist"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "고블린 슬레이어",
+    "from": "Goblin_Slayer",
+    "to": "goblin_slayer"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "공각기동대",
+    "from": "GHOST_IN_THE_SHELL",
+    "to": "ghost_in_the_shell"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "귀멸의 칼날",
+    "from": "Kimetsu_no_yaiba",
+    "to": "kimetsu_no_yaiba"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "나는 친구가 적다",
+    "from": "Boku_wa_tomodachi_ga_sukunai",
+    "to": "boku_wa_tomodachi_ga_sukunai"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "낙제기사의 영웅담",
+    "from": "Rakudai_Kishi_no_Cavalry",
+    "to": "rakudai_kishi_no_cavalry"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "달링 인 더 프랑키스",
+    "from": "Darling_in_the_FranXX",
+    "to": "darling_in_the_franxx"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "도쿄 구울",
+    "from": "Tokyo_Ghoul",
+    "to": "tokyo_ghoul"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "듀라라라!",
+    "from": "Durarara!!",
+    "to": "durarara!!"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "로그 호라이즌",
+    "from": "Log_Horizon",
+    "to": "log_horizon"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "미래일기",
+    "from": "Mirai_Nikki",
+    "to": "mirai_nikki"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "바케모노가타리",
+    "from": "Bakemonogatari",
+    "to": "bakemonogatari"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "방패용사 성공담",
+    "from": "Tate_no_Yuusha_no_Nariagari",
+    "to": "tate_no_yuusha_no_nariagari"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "블랙 라군",
+    "from": "Black_Lagoon",
+    "to": "black_lagoon"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "블랙 불릿",
+    "from": "Black_Bullet",
+    "to": "black_bullet"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "블랙 클로버",
+    "from": "Black_Clover",
+    "to": "black_clover"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "블루 아카이브",
+    "from": "Blue_archive",
+    "to": "blue_archive"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "블리치",
+    "from": "Bleach",
+    "to": "bleach"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "새여동생 마왕의 계약자",
+    "from": "Shinmai_Maou_no_Testament",
+    "to": "shinmai_maou_no_testament"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "소드 아트 온라인",
+    "from": "Sword_Art_Online",
+    "to": "sword_art_online"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "소울 이터",
+    "from": "Soul_Eater",
+    "to": "soul_eater"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "스트라이크 더 블러드",
+    "from": "Strike_the_blood",
+    "to": "strike_the_blood"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "스파이 패밀리",
+    "from": "Spy_x_Family",
+    "to": "spy_x_family"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "아카메가 벤다",
+    "from": "Akame_ga_Kill!",
+    "to": "akame_ga_kill!"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "암살교실",
+    "from": "Ansatsu_Kyoushitsu",
+    "to": "ansatsu_kyoushitsu"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "원피스",
+    "from": "One_Piece",
+    "to": "one_piece"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "유녀전기",
+    "from": "Youjo_Senki",
+    "to": "youjo_senki"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "은혼",
+    "from": "Gintama",
+    "to": "gintama"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "이누야샤",
+    "from": "InuYasha",
+    "to": "inuyasha"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "일곱 개의 대죄",
+    "from": "Nanatsu_no_taizai",
+    "to": "nanatsu_no_taizai"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "전생했더니 슬라임이었던 건에 대하여",
+    "from": "Tensei_shitara_Slime_Datta_Ken",
+    "to": "tensei_shitara_slime_datta_ken"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "제로의 사역마",
+    "from": "Zero_no_Tsukaima",
+    "to": "zero_no_tsukaima"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "죠죠의 기묘한 모험",
+    "from": "JoJo_no_Kimyou_na_Bouken",
+    "to": "jojo_no_kimyou_na_bouken"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "진격의 거인",
+    "from": "Shingeki_no_Kyojin",
+    "to": "shingeki_no_kyojin"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "천원돌파 그렌라간",
+    "from": "Tengen_toppa_gurren_lagann",
+    "to": "tengen_toppa_gurren_lagann"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "청의 엑소시스트",
+    "from": "Ao_no_Exorcist",
+    "to": "ao_no_exorcist"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "코드 기어스",
+    "from": "Code_Geass",
+    "to": "code_geass"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "킬 라 킬",
+    "from": "Kill_la_Kill",
+    "to": "kill_la_kill"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "트리니티 세븐",
+    "from": "Trinity_Seven",
+    "to": "trinity_seven"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "페어리테일",
+    "from": "Fairy_Tail",
+    "to": "fairy_tail"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "포켓몬 시리즈",
+    "from": "Pokemon",
+    "to": "pokemon"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "하이스쿨 오브 더 데드",
+    "from": "Highschool_of_the_Dead",
+    "to": "highschool_of_the_dead"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "학전도시 아스터리스크",
+    "from": "Gakusen_Toshi_Asterisk",
+    "to": "gakusen_toshi_asterisk"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "헌터x헌터",
+    "from": "Hunter_x_Hunter",
+    "to": "hunter_x_hunter"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "헬싱",
+    "from": "Hellsing",
+    "to": "hellsing"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "DC 코믹스",
+    "from": "DC_Comics",
+    "to": "dc_comics"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "리자 호크아이",
+    "from": "Riza_Hawkeye",
+    "to": "riza_hawkeye"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "올리비에 밀라 암스트롱",
+    "from": "Olivier_Mira_Armstrong",
+    "to": "olivier_mira_armstrong"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "윈리 록벨",
+    "from": "Winry_Rockbell",
+    "to": "winry_rockbell"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "이즈미 카터스",
+    "from": "Izumi_Curtis",
+    "to": "izumi_curtis"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "검의 처녀",
+    "from": "Sword_Maiden",
+    "to": "sword_maiden"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "유우히 쿠레나이",
+    "from": "Yuuhi_Kurenai",
+    "to": "yuuhi_kurenai"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "레이디 나강",
+    "from": "_Lady_Nagant",
+    "to": "lady_nagant"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "렉돌",
+    "from": "Ragdoll",
+    "to": "ragdoll"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "멜리사 실드",
+    "from": "Melissa_Shield",
+    "to": "melissa_shield"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "미르코",
+    "from": "Mirko",
+    "to": "mirko"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "스텔라 버밀리온",
+    "from": "Stella_Vermillion",
+    "to": "stella_vermillion"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "셀레스티아 루덴베르크",
+    "from": "Celestia_Ludenberg",
+    "to": "celestia_ludenberg"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "소니아 네버마인드",
+    "from": "Sonia_Nevermind",
+    "to": "sonia_nevermind"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "레피야 비리디스",
+    "from": "Lefiya_Viridis",
+    "to": "lefiya_viridis"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "리베리아 리요스 알브",
+    "from": "Riveria_Ljos_Alf",
+    "to": "riveria_ljos_alf"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "산죠노 하루히메",
+    "from": "Sanjouno_Haruhime",
+    "to": "sanjouno_haruhime"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "에이나 튤",
+    "from": "Eina_Tulle",
+    "to": "eina_tulle"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "부르마",
+    "from": "Bulma",
+    "to": "bulma"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "인조인간 18호",
+    "from": "Android_18",
+    "to": "android_18"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "모르지아나",
+    "from": "Morgiana",
+    "to": "morgiana"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "라프타리아",
+    "from": "Raphtalia",
+    "to": "raphtalia"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "마르티 메르로마르크",
+    "from": "Malty_S_Melromarc",
+    "to": "malty_s_melromarc"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "메르티 메르로마르크",
+    "from": "Melty_Q_Melromarc",
+    "to": "melty_q_melromarc"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "티나 스프라우트",
+    "from": "Tina_Sprout",
+    "to": "tina_sprout"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "노엘 실버",
+    "from": "Noelle_Silva",
+    "to": "noelle_silva"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "메레오레오나 버밀리온",
+    "from": "Mereoleona_Vermillion",
+    "to": "mereoleona_vermillion"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "미모사 버밀리온",
+    "from": "Mimosa_Vermillion",
+    "to": "mimosa_vermillion"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "네리엘 투 오델슈방크",
+    "from": "Nelliel_Tu_Odelschwanck",
+    "to": "nelliel_tu_odelschwanck"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "리리넷 진저벅",
+    "from": "Lilynette_Gingerbuck",
+    "to": "lilynette_gingerbuck"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "릴토토 램퍼드",
+    "from": "Liltotto_Lamperd",
+    "to": "liltotto_lamperd"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "미니냐 매컬론",
+    "from": "Meninas_McAllon",
+    "to": "meninas_mcallon"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "밤비에타 바스터바인",
+    "from": "Bambietta_Basterbine",
+    "to": "bambietta_basterbine"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "지젤 쥬엘",
+    "from": "Giselle_Gewelle",
+    "to": "giselle_gewelle"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "캔디스 캐트닙",
+    "from": "Candice_Catnipp",
+    "to": "candice_catnipp"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "티아 할리벨",
+    "from": "Tier_Harribel",
+    "to": "tier_harribel"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "제스트",
+    "from": "Zest",
+    "to": "zest"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "아사다 시노",
+    "from": "Asada_Shino",
+    "to": "asada_shino"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "앨리스 신서시스 서티",
+    "from": "Alice_Zuberg",
+    "to": "alice_zuberg"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "키리가하 스구하",
+    "from": "Kirigaya_Suguha",
+    "to": "kirigaya_suguha"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "마리에 묠니르",
+    "from": "Marie_Mjolnir",
+    "to": "marie_mjolnir"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "마카 알반",
+    "from": "Maka_Albarn",
+    "to": "maka_albarn"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "메두사 고르곤",
+    "from": "Medusa_Gorgon",
+    "to": "medusa_gorgon"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "엘리자베스 톰슨",
+    "from": "Elizabeth_Thompson",
+    "to": "elizabeth_thompson"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "패트리시아 톰슨",
+    "from": "Patricia_Thompson",
+    "to": "patricia_thompson"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "라 포리아 리하바인",
+    "from": "La_Folia_Rihavein",
+    "to": "la_folia_rihavein"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "베키 블랙벨",
+    "from": "Becky_Blackbell",
+    "to": "becky_blackbell"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "실비아 셔우드",
+    "from": "Sylvia_Sherwood",
+    "to": "sylvia_sherwood"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "피오나 프로스트",
+    "from": "Fiona_Frost",
+    "to": "fiona_frost"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "에스데스",
+    "from": "Esdeath",
+    "to": "esdeath"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "레이비니아 버드웨이",
+    "from": "Leivinia_Birdway",
+    "to": "leivinia_birdway"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "무기노 시즈리",
+    "from": "Mugino_Shizuri",
+    "to": "mugino_shizuri"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "미사카 미스즈",
+    "from": "Misaka_Misuzu",
+    "to": "misaka_misuzu"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "미사카 미코토",
+    "from": "Misaka_Mikoto",
+    "to": "misaka_mikoto"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "쇼쿠호 미사키",
+    "from": "Shokuhou_Misaki",
+    "to": "shokuhou_misaki"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "아녜제 상크티스",
+    "from": "Agnese_Sanctis",
+    "to": "agnese_sanctis"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "안젤레네",
+    "from": "Angelene",
+    "to": "angelene"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "오티누스",
+    "from": "Othinus",
+    "to": "othinus"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "올소라 아퀴나스",
+    "from": "Orsola_Aquinas",
+    "to": "orsola_aquinas"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "이츠와",
+    "from": "Itsuwa",
+    "to": "itsuwa"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "카자키리 호우카",
+    "from": "Kazakiri_Hyouka",
+    "to": "kazakiri_hyouka"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "칸자키 카오리",
+    "from": "Kanzaki_Kaori",
+    "to": "kanzaki_kaori"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "프렌다 세이베른",
+    "from": "Frenda_Seivelun",
+    "to": "frenda_seivelun"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "호카제 준코",
+    "from": "Hokaze_Junko",
+    "to": "hokaze_junko"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "후키요세 세이리",
+    "from": "Fukiyose_Seiri",
+    "to": "fukiyose_seiri"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "루푸스레기나 베타",
+    "from": "Lupusregina_Beta",
+    "to": "lupusregina_beta"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "마레 벨로 피오레",
+    "from": "Mare_Bello_Fiore",
+    "to": "mare_bello_fiore"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "샤르티아 블러드폴른",
+    "from": "Shalltear_Bloodfallen",
+    "to": "shalltear_bloodfallen"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "솔루션 엡실론",
+    "from": "Solution_Epsilon",
+    "to": "solution_epsilon"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "아우라 벨라 피오라",
+    "from": "Aura_Bella_Fiora",
+    "to": "aura_bella_fiora"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "엔토마 바실리사 제타",
+    "from": "Entoma_Vasilissa_Zeta",
+    "to": "entoma_vasilissa_zeta"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "유리 알파",
+    "from": "Yuri_Alpha",
+    "to": "yuri_alpha"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "모스키토 걸",
+    "from": "Mosquito_Girl",
+    "to": "mosquito_girl"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "캡틴 미즈키",
+    "from": "Captain_Mizuki",
+    "to": "captain_mizuki"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "타츠마키",
+    "from": "Tatsumaki",
+    "to": "tatsumaki"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "니코 로빈",
+    "from": "Nico_Robin",
+    "to": "nico_robin"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "니코 올리바",
+    "from": "Nico_Olvia",
+    "to": "nico_olvia"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "벨로 베티",
+    "from": "Belo_Betty",
+    "to": "belo_betty"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "보아 행콕",
+    "from": "Boa_hancock",
+    "to": "boa_hancock"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "샬롯 스무디",
+    "from": "Charlotte_Smoothie",
+    "to": "charlotte_smoothie"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "샬롯 푸딩",
+    "from": "Charlotte_Pudding",
+    "to": "charlotte_pudding"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "쥬얼리 보니",
+    "from": "Jewelry_Bonney",
+    "to": "jewelry_bonney"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "페로나",
+    "from": "Perona",
+    "to": "perona"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "빅토리야 이바노프나 세레브랴코프",
+    "from": "Viktoriya_Ivanovna_Serebryakov",
+    "to": "viktoriya_ivanovna_serebryakov"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "사루토비 아야메",
+    "from": "Sarutobi_Ayame",
+    "to": "sarutobi_ayame"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "야큐 큐베",
+    "from": "Yagyuu_Kyuubei",
+    "to": "yagyuu_kyuubei"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "이마이 노부메",
+    "from": "Imai_Nobume",
+    "to": "imai_nobume"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "라우라 보데비히",
+    "from": "Laura_Bodewig",
+    "to": "laura_bodewig"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "샤를로트 뒤노아",
+    "from": "Charlotte_Dunois",
+    "to": "charlotte_dunois"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "세실리아 올코트",
+    "from": "Cecilia_Alcott",
+    "to": "cecilia_alcott"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "엘리자베스 리오네스",
+    "from": "Elizabeth_Liones",
+    "to": "elizabeth_liones"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "밀림 나바",
+    "from": "Milim_Nava",
+    "to": "milim_nava"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "리사 리사",
+    "from": "Lisa_Lisa",
+    "to": "lisa_lisa"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "에리나 펜들턴",
+    "from": "Erina_Pendleton",
+    "to": "erina_pendleton"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "애니 레온한트",
+    "from": "Annie_Leonhart",
+    "to": "annie_leonhart"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "피크 핑거",
+    "from": "Pieck_Finger",
+    "to": "pieck_finger"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "니아 텟페린",
+    "from": "Nia_Teppelin",
+    "to": "nia_teppelin"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "데리 아다이",
+    "from": "Darry_Adai",
+    "to": "darry_adai"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "요코 리트나",
+    "from": "Yoko_Littner",
+    "to": "yoko_littner"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "키논 바치카",
+    "from": "Kinon_Bachika",
+    "to": "kinon_bachika"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "키얄 바치카",
+    "from": "Kiyal_Bachika",
+    "to": "kiyal_bachika"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "키요 바치카",
+    "from": "Kiyoh_Bachika",
+    "to": "kiyoh_bachika"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "나나리 비 브리타니아",
+    "from": "Nunnally_vi_Britannia",
+    "to": "nunnally_vi_britannia"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "락샤타 챠우라",
+    "from": "Rakshata_Chawla",
+    "to": "rakshata_chawla"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "마리안느 비 브리타니아",
+    "from": "Marianne_vi_Britannia",
+    "to": "marianne_vi_britannia"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "밀리 애쉬포드",
+    "from": "Milly_Ashford",
+    "to": "milly_ashford"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "비렛타 누",
+    "from": "Villetta_Nu",
+    "to": "villetta_nu"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "유페미아 리 브리타니아",
+    "from": "Euphemia_li_Britannia",
+    "to": "euphemia_li_britannia"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "코넬리아 리 브리타니아",
+    "from": "Cornelia_li_Britannia",
+    "to": "cornelia_li_britannia"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "칸나 카무이",
+    "from": "Kanna_Kamui",
+    "to": "kanna_kamui"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "리제로테 샬록",
+    "from": "Lieselotte_Sherlock",
+    "to": "lieselotte_sherlock"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "레비 맥거딘",
+    "from": "Levy_McGarden",
+    "to": "levy_mcgarden"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "루시 하트필리아",
+    "from": "Lucy_Heartfilia",
+    "to": "lucy_heartfilia"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "리사나 스트라우스",
+    "from": "Lisanna_strauss",
+    "to": "lisanna_strauss"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "미라젠 스트라우스",
+    "from": "Mirajane_Strauss",
+    "to": "mirajane_strauss"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "아이린 베르세리온",
+    "from": "Irene_Belserion",
+    "to": "irene_belserion"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "엘자 스칼렛",
+    "from": "Erza_Scarlet",
+    "to": "erza_scarlet"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "카나 알베로나",
+    "from": "Cana_Alberona",
+    "to": "cana_alberona"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "리아스 그레모리",
+    "from": "Rias_Gremory",
+    "to": "rias_gremory"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "아시아 아르젠토",
+    "from": "Asia_Argento",
+    "to": "asia_argento"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "토도 카린",
+    "from": "Toudou_Kirin",
+    "to": "toudou_kirin"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "네페르피트",
+    "from": "Neferpitou",
+    "to": "neferpitou"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "마치 코마치네",
+    "from": "Machi_Komacine",
+    "to": "machi_komacine"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "비스켓 크루거",
+    "from": "Biscuit_Krueger",
+    "to": "biscuit_krueger"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "시즈크 무라사키",
+    "from": "Shizuku_Murasaki",
+    "to": "shizuku_murasaki"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "파크노다",
+    "from": "Pakunoda",
+    "to": "pakunoda"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "세라스 빅토리아",
+    "from": "Seras_Victoria",
+    "to": "seras_victoria"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "발키리",
+    "from": "Valkyrie",
+    "to": "valkyrie"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "베니 엔마 -",
+    "from": "Beni-enma",
+    "to": "beni-enma"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "아사가미 후지노",
+    "from": "Asagami_Fujino",
+    "to": "asagami_fujino"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "우츠미 에리세",
+    "from": "Utsumi_Erice",
+    "to": "utsumi_erice"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "지나코 카리기리",
+    "from": "Jinako_Carigiri",
+    "to": "jinako_carigiri"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "프랑켄슈타인",
+    "from": "Frankenstein",
+    "to": "frankenstein"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "로이스 레인",
+    "from": "Lois_Lane",
+    "to": "lois_lane"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "바바라 고든",
+    "from": "Barbara_Gordon",
+    "to": "barbara_gordon"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "배트걸",
+    "from": "Batgirl",
+    "to": "batgirl"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "배트우먼",
+    "from": "Batwoman",
+    "to": "batwoman"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "블랙카나리",
+    "from": "Black_Canary",
+    "to": "black_canary"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "블랙파이어",
+    "from": "Black_Fire",
+    "to": "black_fire"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "스타파이어",
+    "from": "Starfire",
+    "to": "starfire"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "스테파니 브라운",
+    "from": "Stephanie_Brown",
+    "to": "stephanie_brown"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "원더우먼",
+    "from": "Wonder_Woman",
+    "to": "wonder_woman"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "카산드라 케인",
+    "from": "Cassandra_Cain",
+    "to": "cassandra_cain"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "카타나",
+    "from": "Katana",
+    "to": "katana"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "캣우먼",
+    "from": "Catwoman",
+    "to": "catwoman"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "파워걸",
+    "from": "Power_Girl",
+    "to": "power_girl"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "포이즌 아이비",
+    "from": "Poison_Ivy",
+    "to": "poison_ivy"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "할리퀸",
+    "from": "Harley_Quinn",
+    "to": "harley_quinn"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "그웬 스테이시",
+    "from": "Gwen_Stacy",
+    "to": "gwen_stacy"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "대거",
+    "from": "Dagger",
+    "to": "dagger"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "루나 스노우",
+    "from": "Luna_Snow",
+    "to": "luna_snow"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "발키리",
+    "from": "Valkyrie",
+    "to": "valkyrie"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "블랙 위도우",
+    "from": "Black_Widow",
+    "to": "black_widow"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "블랙캣",
+    "from": "Black_Cat",
+    "to": "black_cat"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "쉬헐크",
+    "from": "She-Hulk",
+    "to": "she-hulk"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "스칼렛 위치",
+    "from": "Scarlet_Witch",
+    "to": "scarlet_witch"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "스톰",
+    "from": "Storm",
+    "to": "storm"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "스파이더 그웬",
+    "from": "Spider-Gwen",
+    "to": "spider-gwen"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "실크",
+    "from": "Silk",
+    "to": "silk"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "엠마 프로스트",
+    "from": "Emma_Frost",
+    "to": "emma_frost"
+  },
+  {
+    "type": "spelling",
+    "group": "작품",
+    "name": "진 그레이",
+    "from": "Jean_Grey",
+    "to": "jean_grey"
+  },
+  {
+    "type": "addition",
+    "group": "기본",
+    "name": "단순한 배경",
+    "to": "simple_background"
+  },
+  {
+    "type": "addition",
+    "group": "기본",
+    "name": "흰색 배경",
+    "to": "white_background"
+  },
+  {
+    "type": "addition",
+    "group": "기본",
+    "name": "회색 배경",
+    "to": "grey_background"
+  },
+  {
+    "type": "addition",
+    "group": "기본",
+    "name": "야외",
+    "to": "outdoors"
+  },
+  {
+    "type": "addition",
+    "group": "기본",
+    "name": "실내",
+    "to": "indoors"
+  },
+  {
+    "type": "addition",
+    "group": "기본",
+    "name": "하늘",
+    "to": "sky"
+  },
+  {
+    "type": "addition",
+    "group": "기본",
+    "name": "푸른 하늘",
+    "to": "blue_sky"
+  },
+  {
+    "type": "addition",
+    "group": "기본",
+    "name": "구름",
+    "to": "cloud"
+  },
+  {
+    "type": "addition",
+    "group": "기본",
+    "name": "나무",
+    "to": "tree"
+  },
+  {
+    "type": "addition",
+    "group": "기본",
+    "name": "물",
+    "to": "water"
+  },
+  {
+    "type": "addition",
+    "group": "기본",
+    "name": "꽃",
+    "to": "flower"
+  },
+  {
+    "type": "addition",
+    "group": "기본",
+    "name": "낮",
+    "to": "day"
+  },
+  {
+    "type": "addition",
+    "group": "기본",
+    "name": "반짝임",
+    "to": "sparkle"
+  },
+  {
+    "type": "addition",
+    "group": "기본",
+    "name": "하트",
+    "to": "heart"
+  },
+  {
+    "type": "addition",
+    "group": "기본",
+    "name": "별 기호",
+    "to": "star_(symbol)"
+  },
+  {
+    "type": "addition",
+    "group": "기본",
+    "name": "회색조",
+    "to": "greyscale"
+  },
+  {
+    "type": "addition",
+    "group": "기본",
+    "name": "치비 캐릭터",
+    "to": "chibi"
+  },
+  {
+    "type": "addition",
+    "group": "기본",
+    "name": "만화",
+    "to": "comic"
+  },
+  {
+    "type": "addition",
+    "group": "기본",
+    "name": "옆에서 본 시점",
+    "to": "from_side"
+  },
+  {
+    "type": "addition",
+    "group": "기본",
+    "name": "뒤에서 본 시점",
+    "to": "from_behind"
+  },
+  {
+    "type": "addition",
+    "group": "기본",
+    "name": "전신",
+    "to": "full_body"
+  },
+  {
+    "type": "addition",
+    "group": "기본",
+    "name": "여러 시점",
+    "to": "multiple_views"
+  },
+  {
+    "type": "addition",
+    "group": "기본",
+    "name": "사람 없음",
+    "to": "no_humans"
+  },
+  {
+    "type": "addition",
+    "group": "기본",
+    "name": "음식",
+    "to": "food"
+  },
+  {
+    "type": "addition",
+    "group": "기본",
+    "name": "가방",
+    "to": "bag"
+  },
+  {
+    "type": "addition",
+    "group": "기본",
+    "name": "컵",
+    "to": "cup"
+  },
+  {
+    "type": "addition",
+    "group": "기본",
+    "name": "무기",
+    "to": "weapon"
+  },
+  {
+    "type": "addition",
+    "group": "기본",
+    "name": "검",
+    "to": "sword"
+  },
+  {
+    "type": "addition",
+    "group": "인물",
+    "name": "여러 여성",
+    "to": "multiple_girls"
+  },
+  {
+    "type": "addition",
+    "group": "인물",
+    "name": "여러 남성",
+    "to": "multiple_boys"
+  },
+  {
+    "type": "addition",
+    "group": "외모",
+    "name": "회색 머리",
+    "to": "grey_hair"
+  },
+  {
+    "type": "addition",
+    "group": "외모",
+    "name": "바보털",
+    "to": "ahoge"
+  },
+  {
+    "type": "addition",
+    "group": "외모",
+    "name": "옆머리",
+    "to": "sidelocks"
+  },
+  {
+    "type": "addition",
+    "group": "외모",
+    "name": "위로 뜬 앞머리",
+    "to": "hair_intakes"
+  },
+  {
+    "type": "addition",
+    "group": "외모",
+    "name": "청록색 눈",
+    "to": "aqua_eyes"
+  },
+  {
+    "type": "addition",
+    "group": "외모",
+    "name": "치아",
+    "to": "teeth"
+  },
+  {
+    "type": "addition",
+    "group": "외모",
+    "name": "뾰족한 송곳니",
+    "to": "fang"
+  },
+  {
+    "type": "addition",
+    "group": "외모",
+    "name": "점",
+    "to": "mole"
+  },
+  {
+    "type": "addition",
+    "group": "외모",
+    "name": "눈 아래 점",
+    "to": "mole_under_eye"
+  },
+  {
+    "type": "addition",
+    "group": "외모",
+    "name": "동물 귀의 솜털",
+    "to": "animal_ear_fluff"
+  },
+  {
+    "type": "addition",
+    "group": "의상",
+    "name": "긴 소매",
+    "to": "long_sleeves"
+  },
+  {
+    "type": "addition",
+    "group": "의상",
+    "name": "짧은 소매",
+    "to": "short_sleeves"
+  },
+  {
+    "type": "addition",
+    "group": "의상",
+    "name": "분리된 소매",
+    "to": "detached_sleeves"
+  },
+  {
+    "type": "addition",
+    "group": "의상",
+    "name": "부푼 소매",
+    "to": "puffy_sleeves"
+  },
+  {
+    "type": "addition",
+    "group": "의상",
+    "name": "넓은 소매",
+    "to": "wide_sleeves"
+  },
+  {
+    "type": "addition",
+    "group": "의상",
+    "name": "프릴",
+    "to": "frills"
+  },
+  {
+    "type": "addition",
+    "group": "의상",
+    "name": "줄무늬 의상",
+    "to": "striped_clothes"
+  },
+  {
+    "type": "addition",
+    "group": "의상",
+    "name": "어깨를 드러낸 의상",
+    "to": "off_shoulder"
+  },
+  {
+    "type": "addition",
+    "group": "의상",
+    "name": "후드",
+    "to": "hood"
+  },
+  {
+    "type": "addition",
+    "group": "의상",
+    "name": "세일러 칼라",
+    "to": "sailor_collar"
+  },
+  {
+    "type": "addition",
+    "group": "의상",
+    "name": "칼라",
+    "to": "collar"
+  },
+  {
+    "type": "addition",
+    "group": "의상",
+    "name": "벨트",
+    "to": "belt"
+  },
+  {
+    "type": "addition",
+    "group": "의상",
+    "name": "변형 의상",
+    "to": "alternate_costume"
+  },
+  {
+    "type": "addition",
+    "group": "의상",
+    "name": "털 장식",
+    "to": "fur_trim"
+  },
+  {
+    "type": "addition",
+    "group": "의상",
+    "name": "드레스",
+    "to": "dress"
+  },
+  {
+    "type": "addition",
+    "group": "의상",
+    "name": "흰색 드레스",
+    "to": "white_dress"
+  },
+  {
+    "type": "addition",
+    "group": "의상",
+    "name": "검은색 드레스",
+    "to": "black_dress"
+  },
+  {
+    "type": "addition",
+    "group": "의상",
+    "name": "일본 전통 의상",
+    "to": "japanese_clothes"
+  },
+  {
+    "type": "addition",
+    "group": "의상",
+    "name": "세일러복",
+    "to": "serafuku"
+  },
+  {
+    "type": "addition",
+    "group": "의상",
+    "name": "갑옷",
+    "to": "armor"
+  },
+  {
+    "type": "addition",
+    "group": "의상",
+    "name": "흰색 셔츠",
+    "to": "white_shirt"
+  },
+  {
+    "type": "addition",
+    "group": "의상",
+    "name": "검은색 셔츠",
+    "to": "black_shirt"
+  },
+  {
+    "type": "addition",
+    "group": "의상",
+    "name": "검은색 재킷",
+    "to": "black_jacket"
+  },
+  {
+    "type": "addition",
+    "group": "의상",
+    "name": "치마",
+    "to": "skirt"
+  },
+  {
+    "type": "addition",
+    "group": "의상",
+    "name": "검은색 치마",
+    "to": "black_skirt"
+  },
+  {
+    "type": "addition",
+    "group": "의상",
+    "name": "파란색 치마",
+    "to": "blue_skirt"
+  },
+  {
+    "type": "addition",
+    "group": "의상",
+    "name": "바지",
+    "to": "pants"
+  },
+  {
+    "type": "addition",
+    "group": "의상",
+    "name": "검은색 바지",
+    "to": "black_pants"
+  },
+  {
+    "type": "addition",
+    "group": "의상",
+    "name": "신발",
+    "to": "shoes"
+  },
+  {
+    "type": "addition",
+    "group": "장신구",
+    "name": "모자",
+    "to": "hat"
+  },
+  {
+    "type": "addition",
+    "group": "장신구",
+    "name": "머리 장식",
+    "to": "hair_ornament"
+  },
+  {
+    "type": "addition",
+    "group": "장신구",
+    "name": "머리 리본",
+    "to": "hair_bow"
+  },
+  {
+    "type": "addition",
+    "group": "장신구",
+    "name": "머리핀",
+    "to": "hairclip"
+  },
+  {
+    "type": "addition",
+    "group": "장신구",
+    "name": "머리의 꽃 장식",
+    "to": "hair_flower"
+  },
+  {
+    "type": "addition",
+    "group": "장신구",
+    "name": "머리 위 고리",
+    "to": "halo"
+  },
+  {
+    "type": "addition",
+    "group": "장신구",
+    "name": "귀걸이",
+    "to": "earrings"
+  },
+  {
+    "type": "addition",
+    "group": "장신구",
+    "name": "장신구",
+    "to": "jewelry"
+  },
+  {
+    "type": "addition",
+    "group": "장신구",
+    "name": "넥타이",
+    "to": "necktie"
+  },
+  {
+    "type": "addition",
+    "group": "장신구",
+    "name": "장갑",
+    "to": "gloves"
+  },
+  {
+    "type": "addition",
+    "group": "장신구",
+    "name": "검은색 장갑",
+    "to": "black_gloves"
+  },
+  {
+    "type": "addition",
+    "group": "장신구",
+    "name": "흰색 장갑",
+    "to": "white_gloves"
+  },
+  {
+    "type": "addition",
+    "group": "장신구",
+    "name": "손가락이 드러난 장갑",
+    "to": "fingerless_gloves"
+  },
+  {
+    "type": "addition",
+    "group": "장신구",
+    "name": "팔꿈치까지 오는 장갑",
+    "to": "elbow_gloves"
+  },
+  {
+    "type": "addition",
+    "group": "장신구",
+    "name": "안경",
+    "to": "glasses"
+  },
+  {
+    "type": "addition",
+    "group": "동작 1",
+    "name": "미소",
+    "to": "smile"
+  },
+  {
+    "type": "addition",
+    "group": "동작 1",
+    "name": "이를 드러낸 미소",
+    "to": "grin"
+  },
+  {
+    "type": "addition",
+    "group": "동작 1",
+    "name": "입을 크게 벌린 미소",
+    "to": ":d"
+  },
+  {
+    "type": "addition",
+    "group": "동작 1",
+    "name": "입을 동그랗게 벌림",
+    "to": ":o"
+  },
+  {
+    "type": "addition",
+    "group": "동작 1",
+    "name": "땀방울 표현",
+    "to": "sweatdrop"
+  },
+  {
+    "type": "addition",
+    "group": "동작 1",
+    "name": "한 손 들기",
+    "to": "hand_up"
+  },
+  {
+    "type": "addition",
+    "group": "동작 1",
+    "name": "양손 들기",
+    "to": "hands_up"
+  },
+  {
+    "type": "addition",
+    "group": "동작 1",
+    "name": "무기 들기",
+    "to": "holding_weapon"
+  },
+  {
+    "type": "addition",
+    "group": "동작 1",
+    "name": "자기 허리에 손 얹기",
+    "to": "hand_on_own_hip"
+  },
+  {
+    "type": "addition",
+    "group": "동작 1",
+    "name": "양팔 들기",
+    "to": "arms_up"
+  }
+]
